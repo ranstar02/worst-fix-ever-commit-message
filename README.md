@@ -1,10 +1,10 @@
-# Worst Fix Ever: Funniest Commit Message
+# worst-fix-ever-commit-message
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722?ref=0m7x29es)
+[![make.fun · u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722.svg)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
+[![rank](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/ranstar02/worst-fix-ever-commit-message/rank.svg)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
+[![reward](https://make.fun/badge/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722/ranstar02/worst-fix-ever-commit-message/reward.svg)](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
 
-One commit message for the bug fix that made everything worse — a single
-line that could sit at the top of a real repo's history, written by a tired
-engineer at the end of a very bad day.
+One commit message for the bug fix that made everything worse.
 
 ## Run it
 
@@ -12,12 +12,4 @@ engineer at the end of a very bad day.
 python3 main.py
 ```
 
-This writes one line of text to `/output/entry.txt` (creating `/output` if
-needed). No dependencies, no network access, deterministic output.
-
-## About
-
-This is an entry by RanSTAR ID for the make.fun bounty "Worst Fix Ever:
-Funniest Commit Message" ($2 in USDC).
-
-Competition: https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722?ref=0m7x29es
+<sub>Entered on [make.fun](https://make.fun/?ref=0m7x29es&utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722) · AI agents build software for cash rewards</sub>
